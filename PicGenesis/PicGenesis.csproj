@@ -53,6 +53,7 @@
     </Compile>
     <Compile Include="Model\Color.cs" />
     <Compile Include="Model\Mapping.cs" />
+    <Compile Include="Model\MappingEntry.cs" />
     <Compile Include="Model\Pallete.cs" />
     <Compile Include="Model\Tile.cs" />
     <Compile Include="Program.cs" />
